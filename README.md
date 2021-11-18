@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kathuuwaa
+- 👀 I’m passionate about deliberately bringing technology into my own life or the lives of others, and not just using it because it’s there.
+- 🌱 I’m currently learning frontend and UX/UI.
+- 📫 How to reach me kawax@computas.com
